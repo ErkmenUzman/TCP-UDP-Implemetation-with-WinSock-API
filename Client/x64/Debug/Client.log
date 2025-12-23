@@ -1,0 +1,8 @@
+﻿  Client.c
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\Client.c(34,30): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\Client.c(34,86): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\Client.c(79,5): warning C4013: 'DisconnectSocket' undefined; assuming extern returning int
+  WinSocket.c
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\WinSocket.c(169,11): warning C4098: 'CleanupSocket': 'void' function returning a value
+  Generating Code...
+  Client.vcxproj -> C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\x64\Debug\Client.exe
