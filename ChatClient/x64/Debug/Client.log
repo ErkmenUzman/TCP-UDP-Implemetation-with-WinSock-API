@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Client.c
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\Client.c(34,30): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\Client.c(34,86): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\Client.c(80,5): warning C4013: 'DisconnectSocket' undefined; assuming extern returning int
+  WinSocket.c
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\Client\WinSocket.c(169,11): warning C4098: 'CleanupSocket': 'void' function returning a value
+  Generating Code...
+  Client.vcxproj -> C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\x64\Debug\ChatClient.exe

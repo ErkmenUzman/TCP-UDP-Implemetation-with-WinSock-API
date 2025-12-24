@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Client.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WinSocketClient.c
+C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\ChatClient\WinSocketClient.c(169,11): warning C4098: 'CleanupSocket': 'void' function returning a value
+  ChatClient.vcxproj -> C:\Users\Siyah\Desktop\erkmen\NetCoreServer_Implementations\TCP-UDP-ClientInC\WinSock-TCP-UDP\x64\Debug\ChatClient.exe
